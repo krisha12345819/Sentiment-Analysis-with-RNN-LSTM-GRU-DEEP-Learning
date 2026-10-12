@@ -290,14 +290,6 @@ jupyter notebook DL_PR5.ipynb
 
 ---
 
-## 📚 References
-
-1. Maas, A. L., et al. (2011). *Learning Word Vectors for Sentiment Analysis.* ACL 2011.
-2. Hochreiter, S., & Schmidhuber, J. (1997). *Long Short-Term Memory.* Neural Computation, 9(8).
-3. Cho, K., et al. (2014). *Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation.* EMNLP 2014.
-4. Pascanu, R., Mikolov, T., & Bengio, Y. (2013). *On the difficulty of training recurrent neural networks.* ICML 2013.
-
----
 
 <div align="center">
 
