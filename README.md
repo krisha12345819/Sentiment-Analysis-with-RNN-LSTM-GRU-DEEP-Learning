@@ -225,7 +225,7 @@ We unrolled each untrained cell step by step and used `tf.GradientTape` to measu
 
 ## 🎥 Video Walkthrough
 
-▶️ **Watch the project explanation here:** [🎬 Click to open the video](https://YOUR-VIDEO-LINK-HERE)
+▶️ **Watch the project explanation here:** [🎬 Click to open the video](https://drive.google.com/file/d/1knoycRq9vvQeIgtNOfZlIISvAlAsE06f/view?usp=sharing)
 
 *(Replace the link above with your YouTube / Google Drive video URL.)*
 
